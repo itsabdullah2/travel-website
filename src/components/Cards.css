@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+}
+
+.cards-figure::after {
+  content: attr(data-category);
+  position: absolute;
+  bottom: 0;
+  color: white;
+  background-color: #1f98f4;
+  margin-left: 10px;
+  padding: 6px 8px;
+  font-size: 12px;
+  font-weight: 700;
+}
