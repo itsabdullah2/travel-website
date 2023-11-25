@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-### Demo: https://itsabdullah2.github.io/
+# Getting Started with Create React ## demo: https://itsabdullah2.github.io/travel-website/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
